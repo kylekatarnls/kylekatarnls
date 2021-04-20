@@ -24,6 +24,11 @@ If you're looking for a job, we currently have [open positions mainly around Lim
 
 If you're looking for devs, [we'll gladly get in touch](https://www.ovnicap.com/#3)
 
+[![OVNI Capital](https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/1232856/Appellation_cktdm7.png)](https://www.ovnicap.com/)
+
 ## Privacy
 
 Last topic I particularly care is privacy, that's why I beleive [ProtonVPN](https://protonvpn.com/) and [ProtonMail](https://protonmail.com/) deserve to be known, **Proton** defends freedom on the top of a simple fundamental idea: Privacy should be the default.
+
+[![ProtonVPN](https://avatars.githubusercontent.com/u/25028530?s=60&v=4)](https://protonvpn.com/)
+[![ProtonMail](https://avatars.githubusercontent.com/u/6953970?s=60&v=4)](https://protonmail.com/)
