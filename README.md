@@ -28,7 +28,7 @@ If you're looking for devs, [we'll gladly get in touch](https://www.ovnicap.com/
 
 ## Privacy
 
-Last topic I particularly care is privacy, that's why I beleive [Proton VPN](https://protonvpn.com/) and [Proton Mail](https://protonmail.com/) deserve to be known, **Proton** defends freedom on the top of a simple fundamental idea: Privacy should be the default.
+Last topic I particularly care is privacy, that's why I believe [Proton VPN](https://protonvpn.com/) and [Proton Mail](https://protonmail.com/) deserve to be known, **Proton** defends freedom on the top of a simple fundamental idea: Privacy should be the default.
 
 [![Proton VPN](https://avatars.githubusercontent.com/u/25028530?s=60&v=4)](https://protonvpn.com/)
 [![Proton Mail](https://avatars.githubusercontent.com/u/6953970?s=60&v=4)](https://protonmail.com/)
