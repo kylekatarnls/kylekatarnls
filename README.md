@@ -16,19 +16,12 @@ If you use Symfony, Laravel, PHPMD, or Pug, then maybe you run some of my code a
 
 🙏 Thank you so much to all people sustaining the Open-Source world!
 
-## Recruitement
-
-As devs, we face various kinds of recruitements, and maybe you too wanted, once or twice, to tell a recruiter: "You won't find any coders searching this way!" that's why I gave an hand to [OVNICap](https://www.ovnicap.com/) and am proud compagnies hired super devs [OVNICap](https://www.ovnicap.com/) introduced to them, and keeping regular contact with devs too, knowing they're also still happy in their workplaces keeps me motivated to help this initiative.
-
-If you're looking for a job, we currently have [open positions mainly around Limoges 🇫🇷 and Geneva 🇨🇭 ](https://www.ovnicap.com/wall-of-fame)
-
-If you're looking for devs, [we'll gladly get in touch](https://www.ovnicap.com/#3)
-
-[![OVNI Capital](https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/1232856/Appellation_cktdm7.png)](https://www.ovnicap.com/)
-
 ## Privacy
 
-Last topic I particularly care is privacy, that's why I believe [Proton VPN](https://protonvpn.com/) and [Proton Mail](https://protonmail.com/) deserve to be known, **Proton** defends freedom on the top of a simple fundamental idea: Privacy should be the default.
+Last topic I particularly care is privacy, that's why I believe [Proton](https://proton.me/) deserve to be known, **Proton** defends freedom on the top of a simple fundamental idea: Privacy should be the default.
 
-[![Proton VPN](https://avatars.githubusercontent.com/u/25028530?s=60&v=4)](https://protonvpn.com/)
-[![Proton Mail](https://avatars.githubusercontent.com/u/6953970?s=60&v=4)](https://protonmail.com/)
+[<img src="https://proton.me/static/da4b71b9f3a89bdd24bd642039382594/proton-vpn-badge.svg" alt="Proton VPN" width="64" height="64">](https://protonvpn.com/)
+[<img src="https://proton.me/static/fc5b1e8b92dd09734ca7c9d91e89db93/proton-mail-badge.svg" alt="Proton Mail" width="64" height="64">](https://proton.me/mail)
+[<img src="https://proton.me/static/e8c55eda314dfefc4c7e1bf3b0c96fda/proton-calendar-badge.svg" alt="Proton Calendar" width="64" height="64">](https://proton.me/calendar)
+[<img src="https://proton.me/static/704d9ef7f6b6a5a521beb656e3a00db0/proton-drive-badge.svg" alt="Proton Drive" width="64" height="64">](https://proton.me/drive)
+[<img src="https://proton.me/static/4bb7d35efc3b86c11a4e59cc286aac93/proton-pass-badge.svg" alt="Proton Pass" width="64" height="64">](https://proton.me/pass)
