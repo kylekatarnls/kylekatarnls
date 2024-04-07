@@ -19,9 +19,3 @@ If you use Symfony, Laravel, PHPMD, or Pug, then maybe you run some of my code a
 ## Privacy
 
 Last topic I particularly care is privacy, that's why I believe [Proton](https://proton.me/) deserve to be known, **Proton** defends freedom on the top of a simple fundamental idea: Privacy should be the default.
-
-[<img src="https://proton.me/static/da4b71b9f3a89bdd24bd642039382594/proton-vpn-badge.svg" alt="Proton VPN" width="64" height="64">](https://protonvpn.com/)
-[<img src="https://proton.me/static/fc5b1e8b92dd09734ca7c9d91e89db93/proton-mail-badge.svg" alt="Proton Mail" width="64" height="64">](https://proton.me/mail)
-[<img src="https://proton.me/static/e8c55eda314dfefc4c7e1bf3b0c96fda/proton-calendar-badge.svg" alt="Proton Calendar" width="64" height="64">](https://proton.me/calendar)
-[<img src="https://proton.me/static/704d9ef7f6b6a5a521beb656e3a00db0/proton-drive-badge.svg" alt="Proton Drive" width="64" height="64">](https://proton.me/drive)
-[<img src="https://proton.me/static/4bb7d35efc3b86c11a4e59cc286aac93/proton-pass-badge.svg" alt="Proton Pass" width="64" height="64">](https://proton.me/pass)
