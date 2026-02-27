@@ -4,7 +4,7 @@
 
 Crossing many languages on daily basis, PHP, my first love still keeps an important place in my dev life.
 
-That's why I contribute to librariries, frameworks and tools, mainly in this language and why I happilly continued the @briannesbitt's work on Carbon now maintaining this date library for 3 years:
+That's why I contribute to libraries, frameworks and tools, mainly in this language and why I happilly continued the @briannesbitt's work on Carbon now maintaining this date library for 3 years:
 
 [![Carbon](https://carbon.nesbot.com/logo.png)](https://carbon.nesbot.com/docs/)
 
